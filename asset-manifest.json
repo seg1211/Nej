@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nej/static/css/main.a5f32b0d.css",
+    "main.js": "/nej/static/js/main.980a0236.js",
+    "index.html": "/nej/index.html",
+    "main.a5f32b0d.css.map": "/nej/static/css/main.a5f32b0d.css.map",
+    "main.980a0236.js.map": "/nej/static/js/main.980a0236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f32b0d.css",
+    "static/js/main.980a0236.js"
+  ]
+}
